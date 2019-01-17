@@ -2,7 +2,7 @@ package test
 
 import (
 	"testing"
-	"bg/can"
+	"../can"
 )
 
 func TestCan(t *testing.T) {
