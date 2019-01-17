@@ -1,8 +1,8 @@
 package main
 
 import (
-	"bg/can"
-	"bg/sender"
+	"../can"
+	"../sender"
 )
 
 func RunDaemon() {

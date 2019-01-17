@@ -3,7 +3,7 @@ package can
 import (
 	"github.com/brutella/can"
 	"log"
-	"bg/db"
+	"../db"
 	"time"
 	"math"
 	"encoding/json"

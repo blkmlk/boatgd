@@ -2,7 +2,7 @@ package sender
 
 import (
 	"time"
-	"bg/db"
+	"../db"
 	"fmt"
 	"net/http"
 	"net"
