@@ -2,7 +2,7 @@ package test
 
 import (
 	"testing"
-	"bg/sender"
+	"../sender"
 )
 
 func TestSender(t *testing.T) {
